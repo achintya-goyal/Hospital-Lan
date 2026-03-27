@@ -32,9 +32,9 @@ hospital-lan/
 ├── public/
 │   ├── index.html     # App UI
 │   └── app.js         # WebRTC + chat + file transfer logic
-├── security/
+├── security/          #Add yours
 │   ├── cert.key       # Self-signed TLS key (HTTPS required for WebRTC)
-│   └── cert.pem       # Self-signed TLS cert
+│   └── cert.pem       # Self-signed TLS cert 
 ├── logs/
 │   └── audit.log      # Persistent audit trail (auto-created)
 └── package.json
